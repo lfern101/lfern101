@@ -19,7 +19,7 @@ Currently, I'm an undergraduate research intern at UIC's Computer Science and De
 ### Grounded App <sub>(@ UIC)</sub>
 * **What it is:** An AI-integrated course reading and discussion platform built to streamline academic engagement. Managed environment configuration and version control for the application repository.
 * **Tech used:** React, Vite, Hono, PostgreSQL, Docker
-* **Links:** [View Live Site](https://staging.chrys.app/)
+* **Links:** [View Live Site](https://staging.chrys.app/) | Video Demo Coming Soon
 
 ### Fitch Group - Tech Solutions Sprintern <sub>(@ Fitch via BTT Sprinternship)</sub>
 
