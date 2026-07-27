@@ -25,7 +25,7 @@ Currently, I'm an undergraduate research intern at UIC's Computer Science and De
 ### Fitch Group (Tech Solutions Sprintern)
 * **What it is:** Developed an automated system for clients to interact with Fitch API data using natural language. Built a Model Context Protocol (MCP) server integrated with Claude AI to process queries[cite: 1]. Created Python scripts to convert JSON API responses into CSVs for interactive 3D VR/AR data visualizations on Oculus via Flow Immersive.
 * **Tech used:** Node.js, JavaScript/TypeScript, Python, Anthropic's Claude, Flow Immersive, Postman, and GitHub.
-* **Links:** [View Presentation]([https://canva.link/w7grod3lhmi149h](https://canva.link/0oql07pg5vdmbkv)
+* **Links:** [View Presentation](https://canva.link/0oql07pg5vdmbkv)
 
 ---
 
@@ -37,5 +37,5 @@ Outside of my main coursework and coding, I am actively involved in:
 ---
 
 ## Let's Connect!
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lizeth-fernandez-/)
-* **Email:** [your.email@example.com](lizethfernandez101@gmail.com)
+* **LinkedIn:** [View Profile](https://www.linkedin.com/in/lizeth-fernandez-/)
+* **Email:** [lizethfernandez101@gmail.com](lizethfernandez101@gmail.com)
