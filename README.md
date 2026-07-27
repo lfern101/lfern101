@@ -23,7 +23,7 @@ Currently, I'm an undergraduate research intern at UIC's Computer Science and De
 
 ### Fitch Group - Tech Solutions Sprintern <sub>(@ Fitch via BTT Sprinternship)</sub>
 
-* **What it is:** Developed an automated system for clients to interact with Fitch API data using natural language. Built a Model Context Protocol (MCP) server integrated with Claude AI to process queries[cite: 1]. Created Python scripts to convert JSON API responses into CSVs for interactive 3D VR/AR data visualizations on Oculus via Flow Immersive.
+* **What it is:** Developed an automated system for clients to interact with Fitch API data using natural language. Built a Model Context Protocol (MCP) server integrated with Claude AI to process queries. Created Python scripts to convert JSON API responses into CSVs for interactive 3D VR/AR data visualizations on Oculus via Flow Immersive.
 * **Tech used:** Node.js, JavaScript/TypeScript, Python, Anthropic's Claude, Flow Immersive, Postman, and GitHub.
 * **Links:** [View Presentation](https://canva.link/0oql07pg5vdmbkv)
 
@@ -34,7 +34,7 @@ Outside of my main coursework and coding, I am actively involved in:
 
 * **Mentorship & Leadership:** I serve as an Engineering 100/101 Success Mentor and Teaching Assistant at UIC. I also served as a Peer Leader for the Winter STEM CoLab.
 
-* **SHPEtinas Committee (Event Planner):** Collaborate with a small committee to plan and run community and cultural events that bring students together[cite: 2]. Coordinate logistics including scheduling, materials, and setup to ensure events run smoothly.
+* **SHPEtinas Committee (Event Planner):** Collaborate with a small committee to plan and run community and cultural events that bring students together. Coordinate logistics including scheduling, materials, and setup to ensure events run smoothly.
 
 ---
 
