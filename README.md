@@ -19,7 +19,7 @@ Currently, I'm an undergraduate research intern at UIC's Computer Science and De
 ### Grounded App
 * **What it is:** An AI-integrated course reading and discussion platform built to streamline academic engagement. Managed environment configuration and version control for the application repository.
 * **Tech used:** React, Vite, Hono, PostgreSQL, Docker
-* **Links:** [Live Site](https://staging.chrys.app/)
+* **Links:** [View Live Site](https://staging.chrys.app/)
 
 ### Fitch Group (Tech Solutions Sprintern)
 * **What it is:** Developed an automated system for clients to interact with Fitch API data using natural language. Built a Model Context Protocol (MCP) server integrated with Claude AI to process queries[cite: 1]. Created Python scripts to convert JSON API responses into CSVs for interactive 3D VR/AR data visualizations on Oculus via Flow Immersive.
